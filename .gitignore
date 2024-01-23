@@ -26,3 +26,4 @@ replay_pid*
 # Sonarlint dir
 .metadata/
 .sonarlint/
+Battleship-java/
